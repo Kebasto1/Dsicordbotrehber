@@ -1,1 +1,1 @@
-# Dsicordbotrehber
+Bu bot Kebasto Tarafından hazırlanmıştır!
